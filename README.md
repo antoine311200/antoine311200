@@ -1,4 +1,6 @@
-![Antoine Debouchage](https://github.com/antoine311200/antoine311200/blob/defdf7a97a14246b1819a8e62dea996195569052/github.gif)
+<img src="https://github.com/antoine311200/antoine311200/blob/defdf7a97a14246b1819a8e62dea996195569052/github.gif" alt="Antoine Debouchage" width="100%"/>
+
+Hello! My name is Antoine Debouchage. I am a Student engineering at CentraleSupélec (of the University of Paris-Saclay) with a strong appetence for research in the field of machine learning, optimisation, quantum computing and mathematics.
 
 <!--
 **antoine311200/antoine311200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

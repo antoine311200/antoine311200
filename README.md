@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  <a href="">![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?link=https://www.linkedin.com/in/antoine-debouchage-24b23a161)</a>
+  <a href="https://www.linkedin.com/in/antoine-debouchage-24b23a161/">![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?link=https://www.linkedin.com/in/antoine-debouchage-24b23a161)</a>
   
 </div>
 

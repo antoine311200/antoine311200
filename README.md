@@ -3,8 +3,9 @@
 <h1 align="center"> </h1>
 
 <div align="center">
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?link=https://www.linkedin.com/in/antoine-debouchage-24b23a161)
-  </div>
+  <a href="">![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?link=https://www.linkedin.com/in/antoine-debouchage-24b23a161)</a>
+</div>
+
 <!-- ![development](https://img.shields.io/badge/development-in%20progress-orange)
 ![maintenance](https://img.shields.io/badge/maintained-yes-brightgreen.svg)
 ![launched](https://img.shields.io/badge/launched-no-red.svg) -->

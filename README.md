@@ -3,11 +3,10 @@
 <h1 align="center"> </h1>
 
 
-<a href="https://www.linkedin.com/in/antoine-debouchage-24b23a161"><img src="https://img.shields.io/badge/version-0.0.1-blueviolet" alt="LinkedIn"/>
-![LinkedIn](https://img.shields.io/badge/version-0.0.1-blueviolet)
-![development](https://img.shields.io/badge/development-in%20progress-orange)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?link=https://www.linkedin.com/in/antoine-debouchage-24b23a161)
+<!-- ![development](https://img.shields.io/badge/development-in%20progress-orange)
 ![maintenance](https://img.shields.io/badge/maintained-yes-brightgreen.svg)
-![launched](https://img.shields.io/badge/launched-no-red.svg)
+![launched](https://img.shields.io/badge/launched-no-red.svg) -->
 
 <h1 align="center"> </h1>
 

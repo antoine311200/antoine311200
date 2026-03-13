@@ -17,7 +17,11 @@
 
 <h1 align="center"> </h1>
 
-Hello! My name is Antoine Debouchage. I am a Student engineering at CentraleSupélec (Paris-Saclay University) and Master of Research (Master MVA) Student at Ecole Normale Supérieure with a strong appetence for research in the field of machine learning, optimisation, quantum computing and mathematics.
+Hello! My name is Antoine Debouchage. 
+
+I am a PhD student with Barclays and the Laboratoire de Mathématiques et Modélisation d'Évry (LaMME) under a Cifre contract. I graduated with a Master of Engineering from CentraleSupélec (Paris-Saclay University) and a Master of Research (Master MVA) from École normale supérieure Paris-Saclay.
+
+My research interests orbit around probability, statistics, deep learning, financial mathematics, quantitative finance, and quantum computing.
 
 <!--
 **antoine311200/antoine311200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
